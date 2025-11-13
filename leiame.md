@@ -15,7 +15,7 @@
 
 ## Descrição
 
-AProjeto com o objetivo deser um clone fullstack do chatgpt utilizando uma integração com o algoritmo do OpenAI
+Projeto com o objetivo deser um clone fullstack do chatgpt utilizando uma integração com o algoritmo do OpenAI
 
 ## Tecnologias utilizadas no projeto
 ### Backend
