@@ -4,32 +4,47 @@
 <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
   <H1><b> Victor Sérgio Silva Barros </b> </H1>
-  
 </p> 
+
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/logoChatGPT.jpg" alt="ChatGPT Logo" width="200"/>
-<img src="./img/logoLexica.jpeg" alt="logoLexica Logo" width="200"/>
 
-# Curso Criando Artigos Técnicos com ChatGPT e Lexica.art
 
-Este repositório contém materiais desenvolvido durante o curso Criando Artigos Técnicos com ChatGPT e Lexica.art oferecido pela [DIO](https://www.youtube.com/watch?v=ktfS6qIy7XM).
+# ChatGPT Clone • 🤖 
 
 ## Descrição
 
-AProjeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável.
+AProjeto com o objetivo deser um clone fullstack do chatgpt utilizando uma integração com o algoritmo do OpenAI
 
 ## Tecnologias utilizadas no projeto
-- ChatGPT - para título e conteúdo
-- Lexica.art - para gerar imagens
-- PowerPoint - Para formatação de banners e Layouts
+### Backend
+  - Node
+  - Express
+  - Javascript
+  - Cors
 
-## Prompts
-ChatGPT：
-[Visualizar prompts](./prompts.txt)
+### Frontend
+  - React
+  - Javascript
 
-## Artigo
-https://web.dio.me/articles/como-usar-o-tinkercad-para-simular-circuitos-eletronicos-em-minutos-mesmo-sem-saber-programar-ef34ce7e8e12?back=/articles
+### Como eu faço para executar o serviço do backend?
+
+```sh
+$ cd server
+$ npm install
+$ npm start
+```
+
+Feito isso o serviço de backend estará funcionando na porta :5000. 
+
+### Como eu faço para executar o serviço do frontend?
+
+```sh
+$ cd web
+$ npm install
+$ npm start
+```
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
